@@ -149,4 +149,4 @@ class EmailScraper():
 if __name__ == "__main__":
     urllib3.disable_warnings()
     x = EmailScraper()
-    x.run()n
+    x.run()
