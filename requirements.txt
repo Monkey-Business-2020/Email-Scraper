@@ -1,0 +1,7 @@
+requests
+argparse
+urllib3
+bs4
+termcolor
+colored
+datetime
